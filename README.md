@@ -1,2 +1,5 @@
 # online-shop-autentication
-Projeto desnvolvido em Javascript de autenticação e login de usuário
+Projeto desenvolvido em Javascript de autenticação e login de usuário
+
+Frontend: Html, Css e Javascript
+Backend: NodeJs e MongoDb
